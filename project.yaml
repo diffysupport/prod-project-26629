@@ -8,6 +8,7 @@ basic:
         - 640
         - 1024
         - 1200
+        - 2000
     pages:
         - /
         - /solutions/brainloop-meetingsuite
